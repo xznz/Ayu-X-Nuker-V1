@@ -3,28 +3,28 @@
     "guildid":"",
 
     "spamchannel" : {
-        "name":"ZERO Is Here",
+        "name":"P U S S Y N U K E R ON TOP BITCHES",
         "type":0
         },
 
     "ban" : {
             "delete_message_days": 7,
-            "reason": "ZERO Is Here"
+            "reason": "AYU IS BACK"
         },
 
     "createrole" : {
         "hoist": "true",
-        "name": "ZERO Is Here",
+        "name": "P U S S Y N U K E R V1",
         "mentionable": "true",
         "color":16746752,
         "permissions": 1
         },
 
     "webhookname" : {
-        "name": "ZERO IS HERE"
+        "name": "AYU IS BACK"
     },
 
-    "spamcontent": {"content": "@everyone @here https://discord.gg/kRTw3x6jV8"}
+    "spamcontent": {"content": "@everyone @here P U S S Y N U K E R ON TOP ---> https://github.com/xznz/Ayu-X-Nuker-V1/ "}
 
 
 
