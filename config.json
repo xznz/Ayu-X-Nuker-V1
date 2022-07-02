@@ -1,0 +1,31 @@
+{
+    "token":"",
+    "guildid":"",
+
+    "spamchannel" : {
+        "name":"ZERO Is Here",
+        "type":0
+        },
+
+    "ban" : {
+            "delete_message_days": 7,
+            "reason": "ZERO Is Here"
+        },
+
+    "createrole" : {
+        "hoist": "true",
+        "name": "ZERO Is Here",
+        "mentionable": "true",
+        "color":16746752,
+        "permissions": 1
+        },
+
+    "webhookname" : {
+        "name": "ZERO IS HERE"
+    },
+
+    "spamcontent": {"content": "@everyone @here https://discord.gg/kRTw3x6jV8"}
+
+
+
+}
