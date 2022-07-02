@@ -89,15 +89,17 @@ def main():
     print(f"""
     
 {Fore.RED}=================================================================={Fore.RED} 
-{Fore.RED}▐              ________ ________ _______   ______                ▐ {Fore.RED}
-{Fore.RED}▐             |        \        \       \ /      \               ▐ {Fore.RED}
-{Fore.RED}▐             \▓▓▓▓▓▓▓▓ ▓▓▓▓▓▓▓▓ ▓▓▓▓▓▓▓\  ▓▓▓▓▓▓\               ▐ {Fore.RED}
-{Fore.RED}▐                /  ▓▓| ▓▓__   | ▓▓__| ▓▓ ▓▓  | ▓▓               ▐ {Fore.RED}
-{Fore.RED}▐               /  ▓▓ | ▓▓  \  | ▓▓    ▓▓ ▓▓  | ▓▓               ▐ {Fore.RED}   
-{Fore.RED}▐              /  ▓▓  | ▓▓▓▓▓  | ▓▓▓▓▓▓▓\ ▓▓  | ▓▓               ▐ {Fore.RED}
-{Fore.RED}▐             /  ▓▓___| ▓▓_____| ▓▓  | ▓▓ ▓▓__/ ▓▓               ▐ {Fore.RED}
-{Fore.RED}▐            |  ▓▓    \ ▓▓     \ ▓▓  | ▓▓\▓▓    ▓▓               ▐ {Fore.RED}
-{Fore.RED}▐             \▓▓▓▓▓▓▓▓\▓▓▓▓▓▓▓▓\▓▓   \▓▓ \▓▓▓▓▓▓                ▐ {Fore.RED}
+{Fore.RED}▐                                                                ▐ {Fore.RED}
+{Fore.RED}▐                                                                ▐ {Fore.RED}
+{Fore.RED}▐            P U S S Y                                           ▐ {Fore.RED}
+{Fore.RED}▐                       N U K E R                                ▐ {Fore.RED}
+{Fore.RED}▐                       U S E T O N U K E S E R V E R S          ▐ {Fore.RED}
+{Fore.RED}▐                                                                ▐ {Fore.RED}
+{Fore.RED}▐                                                                ▐ {Fore.RED}   
+{Fore.RED}▐                                                                ▐ {Fore.RED}
+{Fore.RED}▐                                                                ▐ {Fore.RED}
+{Fore.RED}▐                                                                ▐ {Fore.RED}
+{Fore.RED}▐                                                                ▐ {Fore.RED}
 {Fore.RED}=================================================================={Fore.RED}
     
     {Fore.BLUE}>1.{Fore.WHITE}Nuke Channels {Fore.BLUE}  >5.{Fore.WHITE}Spam Roles{Fore.BLUE}
